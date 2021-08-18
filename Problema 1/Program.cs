@@ -6,15 +6,15 @@ namespace Problema_1
     {
         static void Main(string[] args)
         {
-            float Vb,Va;
+            float Vb,Valor;
             Console.WriteLine("Digite un numero para saber su valor absoluto");
-            Va=float.Parse(Console.ReadLine());
-            if (Va>0){
-                Console.WriteLine("El valor absoluto de "+Va+" es igual a "+Va);
+            Valor=float.Parse(Console.ReadLine());
+            if (Valor>0){
+                Console.WriteLine("El Valor absoluto de "+Valor+" es igual a "+Valor);
             }
-            else if(Va<=0){
-                Vb=Va*-1;
-                Console.WriteLine("El valor absoluto de "+Va+" es igual a "+Vb);
+            else if(Valor<=0){
+                Vb=Valor*-1;
+                Console.WriteLine("El Valor absoluto de "+Valor+" es igual a "+Vb);
             }
             
             
