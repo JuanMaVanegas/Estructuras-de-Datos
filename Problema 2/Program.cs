@@ -6,6 +6,10 @@ namespace Problema_2
     {
         static void Main(string[] args)
         {
+            //Creado por: Juan Manuel Vanegas Tamara
+            //Grupo: 239-2A
+            //Turno: Diurno
+            
             Console.WriteLine("Promoción de compra llevate 3 peliculas y paga las 2 más baratas");
             double P1;
             double P2;

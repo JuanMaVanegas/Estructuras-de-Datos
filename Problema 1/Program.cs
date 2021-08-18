@@ -6,6 +6,10 @@ namespace Problema_1
     {
         static void Main(string[] args)
         {
+            //Creado por: Juan Manuel Vanegas Tamara
+            //Grupo: 239-2A
+            //Turno: Diurno
+            
             float Valorb,Valor;
             Console.WriteLine("Digite un numero para saber su valor absoluto");
             Valor=float.Parse(Console.ReadLine());

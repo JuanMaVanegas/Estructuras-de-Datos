@@ -6,6 +6,10 @@ namespace Problema_9
     {
         static void Main(string[] args)
         {
+            //Creado por: Juan Manuel Vanegas Tamara
+            //Grupo: 239-2A
+            //Turno: Diurno
+            
             double edad_perro,edad_persona;
             Console.WriteLine("Digite la cantidad de años del perro");
             edad_perro=double.Parse(Console.ReadLine());

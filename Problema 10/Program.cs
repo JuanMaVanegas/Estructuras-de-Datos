@@ -6,6 +6,10 @@ namespace Problema_10
     {
         static void Main(string[] args)
         {
+            //Creado por: Juan Manuel Vanegas Tamara
+            //Grupo: 239-2A
+            //Turno: Diurno
+            
             String Contra="";
             
             do{

@@ -6,6 +6,10 @@ namespace Problema_3
     {
         static void Main(string[] args)
         {
+            //Creado por: Juan Manuel Vanegas Tamara
+            //Grupo: 239-2A
+            //Turno: Diurno
+            
             Console.WriteLine("Calificaciones de un Estudiante");
             int maxcal=0,mincal=100,i=0,nota=0,n;
             int prom;

@@ -6,6 +6,10 @@ namespace Problema_5
     {
         static void Main(string[] args)
         {
+            //Creado por: Juan Manuel Vanegas Tamara
+            //Grupo: 239-2A
+            //Turno: Diurno
+            
             Console.WriteLine("Ingrese un numero para calcular su raiz cuadrada");
             double res,num;
             num=float.Parse(Console.ReadLine());

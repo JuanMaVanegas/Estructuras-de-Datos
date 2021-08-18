@@ -6,6 +6,10 @@ namespace Problema_8
     {
         static void Main(string[] args)
         {
+            //Creado por: Juan Manuel Vanegas Tamara
+            //Grupo: 239-2A
+            //Turno: Diurno
+            
             Console.WriteLine("Escribe un caracter");
             Char c;
             string d;

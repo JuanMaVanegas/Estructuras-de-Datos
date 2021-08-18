@@ -6,6 +6,10 @@ namespace Problema_4
     {
         static void Main(string[] args)
         {
+            //Creado por: Juan Manuel Vanegas Tamara
+            //Grupo: 239-2A
+            //Turno: Diurno
+            
             int numero, valor;
             Console.WriteLine("Conjetura de Collatz");
             Console.WriteLine("Por favor ingrese un numero:");

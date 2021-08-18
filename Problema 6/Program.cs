@@ -6,6 +6,10 @@ namespace Problema_6
     {
         static void Main(string[] args)
         {
+            //Creado por: Juan Manuel Vanegas Tamara
+            //Grupo: 239-2A
+            //Turno: Diurno
+            
             Console.WriteLine("Ingrese la cantidad de segundos a convertir");
             int segundos,dias,horas,minutos;
             segundos=int.Parse(Console.ReadLine());
