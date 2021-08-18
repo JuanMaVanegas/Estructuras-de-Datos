@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\bin\Debug\net5.0\Problema 7.exe
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\bin\Debug\net5.0\Problema 7.deps.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\bin\Debug\net5.0\Problema 7.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\bin\Debug\net5.0\Problema 7.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\bin\Debug\net5.0\Problema 7.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\bin\Debug\net5.0\ref\Problema 7.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\bin\Debug\net5.0\Problema 7.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\obj\Debug\net5.0\Problema 7.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\obj\Debug\net5.0\Problema 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\obj\Debug\net5.0\Problema 7.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\obj\Debug\net5.0\Problema 7.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\obj\Debug\net5.0\Problema 7.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\obj\Debug\net5.0\Problema 7.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\obj\Debug\net5.0\ref\Problema 7.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\obj\Debug\net5.0\Problema 7.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Problema 7\obj\Debug\net5.0\Problema 7.genruntimeconfig.cache
