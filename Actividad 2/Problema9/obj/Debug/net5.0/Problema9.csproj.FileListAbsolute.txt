@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\bin\Debug\net5.0\Problema9.exe
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\bin\Debug\net5.0\Problema9.deps.json
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\bin\Debug\net5.0\Problema9.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\bin\Debug\net5.0\Problema9.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\bin\Debug\net5.0\Problema9.dll
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\bin\Debug\net5.0\ref\Problema9.dll
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\bin\Debug\net5.0\Problema9.pdb
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\obj\Debug\net5.0\Problema9.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\obj\Debug\net5.0\Problema9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\obj\Debug\net5.0\Problema9.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\obj\Debug\net5.0\Problema9.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\obj\Debug\net5.0\Problema9.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\obj\Debug\net5.0\Problema9.dll
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\obj\Debug\net5.0\ref\Problema9.dll
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\obj\Debug\net5.0\Problema9.pdb
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema9\obj\Debug\net5.0\Problema9.genruntimeconfig.cache

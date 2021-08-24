@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\bin\Debug\net5.0\Problema7.exe
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\bin\Debug\net5.0\Problema7.deps.json
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\bin\Debug\net5.0\Problema7.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\bin\Debug\net5.0\Problema7.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\bin\Debug\net5.0\Problema7.dll
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\bin\Debug\net5.0\ref\Problema7.dll
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\bin\Debug\net5.0\Problema7.pdb
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\obj\Debug\net5.0\Problema7.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\obj\Debug\net5.0\Problema7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\obj\Debug\net5.0\Problema7.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\obj\Debug\net5.0\Problema7.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\obj\Debug\net5.0\Problema7.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\obj\Debug\net5.0\Problema7.dll
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\obj\Debug\net5.0\ref\Problema7.dll
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\obj\Debug\net5.0\Problema7.pdb
+C:\Users\USER\OneDrive\Documentos\A\Ejercicios_git\Problema7\obj\Debug\net5.0\Problema7.genruntimeconfig.cache
