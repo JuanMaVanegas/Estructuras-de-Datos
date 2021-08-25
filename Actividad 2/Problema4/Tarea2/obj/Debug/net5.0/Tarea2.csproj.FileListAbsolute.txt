@@ -1,0 +1,16 @@
+C:\Users\santy\source\repos\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.exe
+C:\Users\santy\source\repos\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.deps.json
+C:\Users\santy\source\repos\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.runtimeconfig.json
+C:\Users\santy\source\repos\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.runtimeconfig.dev.json
+C:\Users\santy\source\repos\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.dll
+C:\Users\santy\source\repos\Tarea2\Tarea2\bin\Debug\net5.0\ref\Tarea2.dll
+C:\Users\santy\source\repos\Tarea2\Tarea2\bin\Debug\net5.0\Tarea2.pdb
+C:\Users\santy\source\repos\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santy\source\repos\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.AssemblyInfoInputs.cache
+C:\Users\santy\source\repos\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.AssemblyInfo.cs
+C:\Users\santy\source\repos\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.dll
+C:\Users\santy\source\repos\Tarea2\Tarea2\obj\Debug\net5.0\ref\Tarea2.dll
+C:\Users\santy\source\repos\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.pdb
+C:\Users\santy\source\repos\Tarea2\Tarea2\obj\Debug\net5.0\Tarea2.genruntimeconfig.cache
