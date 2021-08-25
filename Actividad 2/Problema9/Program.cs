@@ -6,7 +6,16 @@ namespace Problema9
     {
         static void Main(string[] args)
         {
-            
+
+        /*INTEGRANTES DEL GRUPO:
+            Johan Sebastian Rios
+            Luis Esteban Triana
+            Juan Manuel Vanegas
+            Adres Santiago Villamil 
+        Jornada:
+            Diurna
+        Grupo:
+            63102C / 239-2A */   
             string n=" ";
             Console.WriteLine("Calcular el área de ");
             Console.WriteLine("1. Triángulo ");

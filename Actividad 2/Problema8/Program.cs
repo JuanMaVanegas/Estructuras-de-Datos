@@ -6,6 +6,17 @@ namespace Problema8
     {
         static void Main(string[] args)
         {
+        
+        /*INTEGRANTES DEL GRUPO:
+            Johan Sebastian Rios
+            Luis Esteban Triana
+            Juan Manuel Vanegas
+            Adres Santiago Villamil 
+        Jornada:
+            Diurna
+        Grupo:
+            63102C / 239-2A */ 
+
             int mes;
             Console.WriteLine("Por favor ingrese el número del mes: ");
             mes = int.Parse(Console.ReadLine());

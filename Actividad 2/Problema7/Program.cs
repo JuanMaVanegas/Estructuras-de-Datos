@@ -6,6 +6,16 @@ namespace Problema7
     {
         static void Main(string[] args)
         {
+        /*INTEGRANTES DEL GRUPO:
+            Johan Sebastian Rios
+            Luis Esteban Triana
+            Juan Manuel Vanegas
+            Adres Santiago Villamil 
+        Jornada:
+            Diurna
+        Grupo:
+            63102C / 239-2A */ 
+            
             string frase=" ";
 
             Console.WriteLine("Por favor ingrese la frase: ");
