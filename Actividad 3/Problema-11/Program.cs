@@ -6,6 +6,11 @@ namespace Problema_11
     {
         static void Main(string[] args)
         {
+            /*Problema 11: Se registran X cantidad de empleados de una empresa Número de legajo, sueldo, sexo (1=femenino y 
+            2=masculino). Mostrar cuantas mujeres ganan más de $1.000.000 pesos y cuantos hombres ganan menos de 
+            $900.000, realizar la suma de la cantidad de dinero que tienen las mujeres y la cantidad de dinero para los 
+            hombres.*/
+
             /*INTEGRANTES DEL GRUPO:
                 Johan Sebastian Rios
                 Luis Esteban Triana
@@ -15,6 +20,7 @@ namespace Problema_11
                 Diurna
             Grupo:
                 63102C / 239 - 2A */
+                
             string nombre;
             decimal sueldo,suma_sm=0.0m,suma_sf=0.0m;
             int genero,cant,contf=0,contm=0,legajo;

@@ -7,6 +7,10 @@ namespace Problema_10
         static void Main(string[] args)
 
         {
+            /* Problema 10: En Colombia se tienen 3 puntos de reparto de vacunas que se pretende funcionen de la siguiente manera. 
+            Cada día, empezar con 1000 vacunas disponibles en cada punto y a través de un programa que controla las entregas 
+            avisar si el inventario baja de 200 unidades, al final el programa de debe generar un reporte de la cantidad de 
+            vacunas utilizadas en cada punto.*/
             /*INTEGRANTES DEL GRUPO:
                 Johan Sebastian Rios
                 Luis Esteban Triana

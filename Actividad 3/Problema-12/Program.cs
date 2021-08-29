@@ -6,6 +6,10 @@ namespace Problema_12
     {
         static void Main(string[] args)
         {
+            /*Problema 12: Elaborar un programa para obtener el resultado del escrutinio en las elecciones del representante estudiantil, 
+            consideremos que se van a ingresar mínimo 20 votantes y máximo lo que se deseen, cada votante debe escoger 
+            solo 1 candidato de 3 posibles. El algoritmo debe declarar el ganador por mayoría simple*/
+            
             /*INTEGRANTES DEL GRUPO:
                 Johan Sebastian Rios
                 Luis Esteban Triana
