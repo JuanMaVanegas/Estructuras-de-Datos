@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\bin\Debug\net5.0\Problema-11.exe
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\bin\Debug\net5.0\Problema-11.deps.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\bin\Debug\net5.0\Problema-11.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\bin\Debug\net5.0\Problema-11.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\bin\Debug\net5.0\Problema-11.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\bin\Debug\net5.0\ref\Problema-11.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\bin\Debug\net5.0\Problema-11.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\obj\Debug\net5.0\Problema-11.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\obj\Debug\net5.0\Problema-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\obj\Debug\net5.0\Problema-11.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\obj\Debug\net5.0\Problema-11.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\obj\Debug\net5.0\Problema-11.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\obj\Debug\net5.0\Problema-11.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\obj\Debug\net5.0\ref\Problema-11.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\obj\Debug\net5.0\Problema-11.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Actividad 3\Problema-11\obj\Debug\net5.0\Problema-11.genruntimeconfig.cache
