@@ -1,0 +1,16 @@
+C:\Users\santy\source\repos\Problema7\Problema7\bin\Debug\net5.0\Problema7.exe
+C:\Users\santy\source\repos\Problema7\Problema7\bin\Debug\net5.0\Problema7.deps.json
+C:\Users\santy\source\repos\Problema7\Problema7\bin\Debug\net5.0\Problema7.runtimeconfig.json
+C:\Users\santy\source\repos\Problema7\Problema7\bin\Debug\net5.0\Problema7.runtimeconfig.dev.json
+C:\Users\santy\source\repos\Problema7\Problema7\bin\Debug\net5.0\Problema7.dll
+C:\Users\santy\source\repos\Problema7\Problema7\bin\Debug\net5.0\ref\Problema7.dll
+C:\Users\santy\source\repos\Problema7\Problema7\bin\Debug\net5.0\Problema7.pdb
+C:\Users\santy\source\repos\Problema7\Problema7\obj\Debug\net5.0\Problema7.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\Problema7\Problema7\obj\Debug\net5.0\Problema7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santy\source\repos\Problema7\Problema7\obj\Debug\net5.0\Problema7.AssemblyInfoInputs.cache
+C:\Users\santy\source\repos\Problema7\Problema7\obj\Debug\net5.0\Problema7.AssemblyInfo.cs
+C:\Users\santy\source\repos\Problema7\Problema7\obj\Debug\net5.0\Problema7.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\Problema7\Problema7\obj\Debug\net5.0\Problema7.dll
+C:\Users\santy\source\repos\Problema7\Problema7\obj\Debug\net5.0\ref\Problema7.dll
+C:\Users\santy\source\repos\Problema7\Problema7\obj\Debug\net5.0\Problema7.pdb
+C:\Users\santy\source\repos\Problema7\Problema7\obj\Debug\net5.0\Problema7.genruntimeconfig.cache
