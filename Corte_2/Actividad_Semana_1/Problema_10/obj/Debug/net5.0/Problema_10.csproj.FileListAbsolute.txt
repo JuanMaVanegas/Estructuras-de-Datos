@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\bin\Debug\net5.0\Problema_10.exe
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\bin\Debug\net5.0\Problema_10.deps.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\bin\Debug\net5.0\Problema_10.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\bin\Debug\net5.0\Problema_10.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\bin\Debug\net5.0\Problema_10.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\bin\Debug\net5.0\ref\Problema_10.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\bin\Debug\net5.0\Problema_10.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\obj\Debug\net5.0\Problema_10.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\obj\Debug\net5.0\Problema_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\obj\Debug\net5.0\Problema_10.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\obj\Debug\net5.0\Problema_10.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\obj\Debug\net5.0\Problema_10.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\obj\Debug\net5.0\Problema_10.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\obj\Debug\net5.0\ref\Problema_10.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\obj\Debug\net5.0\Problema_10.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_10\obj\Debug\net5.0\Problema_10.genruntimeconfig.cache
