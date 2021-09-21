@@ -1,0 +1,16 @@
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\bin\Debug\net5.0\Problema7_Act5.exe
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\bin\Debug\net5.0\Problema7_Act5.deps.json
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\bin\Debug\net5.0\Problema7_Act5.runtimeconfig.json
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\bin\Debug\net5.0\Problema7_Act5.runtimeconfig.dev.json
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\bin\Debug\net5.0\Problema7_Act5.dll
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\bin\Debug\net5.0\ref\Problema7_Act5.dll
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\bin\Debug\net5.0\Problema7_Act5.pdb
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\obj\Debug\net5.0\Problema7_Act5.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\obj\Debug\net5.0\Problema7_Act5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\obj\Debug\net5.0\Problema7_Act5.AssemblyInfoInputs.cache
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\obj\Debug\net5.0\Problema7_Act5.AssemblyInfo.cs
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\obj\Debug\net5.0\Problema7_Act5.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\obj\Debug\net5.0\Problema7_Act5.dll
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\obj\Debug\net5.0\ref\Problema7_Act5.dll
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\obj\Debug\net5.0\Problema7_Act5.pdb
+C:\Users\santy\source\repos\Problema7_Act5\Problema7_Act5\obj\Debug\net5.0\Problema7_Act5.genruntimeconfig.cache
