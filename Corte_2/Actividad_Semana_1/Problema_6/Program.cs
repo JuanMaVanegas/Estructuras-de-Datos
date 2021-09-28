@@ -24,7 +24,7 @@ namespace Problema_6
 
             for (int Fila = 0; Fila < NEstudiantes; Fila++)
             {
-                Console.WriteLine("Estudiante No." + (Fila+1) + ":");
+                Console.WriteLine("Estudiante No." + (Fila+1) + " : ");
                 for (int Columna = 0; Columna < 3; Columna++)
                 {
                     Console.Write("Ingrese la calificación No. " +(Columna+1)+" : ");
