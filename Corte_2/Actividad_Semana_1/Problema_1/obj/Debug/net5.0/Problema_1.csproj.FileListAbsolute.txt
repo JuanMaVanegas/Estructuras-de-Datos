@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\obj\Debug\net5.0\Problema_1.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\obj\Debug\net5.0\Problema_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\obj\Debug\net5.0\Problema_1.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\obj\Debug\net5.0\Problema_1.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\obj\Debug\net5.0\Problema_1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\bin\Debug\net5.0\Problema_1.exe
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\bin\Debug\net5.0\Problema_1.deps.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\bin\Debug\net5.0\Problema_1.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\bin\Debug\net5.0\Problema_1.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\bin\Debug\net5.0\Problema_1.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\bin\Debug\net5.0\ref\Problema_1.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\bin\Debug\net5.0\Problema_1.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\obj\Debug\net5.0\Problema_1.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\obj\Debug\net5.0\ref\Problema_1.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\obj\Debug\net5.0\Problema_1.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_2\Actividad_Semana_1\Problema_1\obj\Debug\net5.0\Problema_1.genruntimeconfig.cache
