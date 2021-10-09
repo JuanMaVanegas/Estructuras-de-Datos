@@ -13,7 +13,7 @@ using System.Collections;
 
 namespace Ejercicio_xtrazo
 {
-    class ejer_5
+    class Program
     {
 
 
