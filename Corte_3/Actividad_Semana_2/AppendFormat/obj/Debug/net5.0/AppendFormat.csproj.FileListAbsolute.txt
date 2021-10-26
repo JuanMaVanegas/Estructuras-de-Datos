@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\obj\Debug\net5.0\AppendFormat.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\obj\Debug\net5.0\AppendFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\obj\Debug\net5.0\AppendFormat.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\obj\Debug\net5.0\AppendFormat.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\obj\Debug\net5.0\AppendFormat.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\bin\Debug\net5.0\AppendFormat.exe
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\bin\Debug\net5.0\AppendFormat.deps.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\bin\Debug\net5.0\AppendFormat.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\bin\Debug\net5.0\AppendFormat.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\bin\Debug\net5.0\AppendFormat.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\bin\Debug\net5.0\ref\AppendFormat.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\bin\Debug\net5.0\AppendFormat.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\obj\Debug\net5.0\AppendFormat.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\obj\Debug\net5.0\ref\AppendFormat.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\obj\Debug\net5.0\AppendFormat.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\AppendFormat\obj\Debug\net5.0\AppendFormat.genruntimeconfig.cache

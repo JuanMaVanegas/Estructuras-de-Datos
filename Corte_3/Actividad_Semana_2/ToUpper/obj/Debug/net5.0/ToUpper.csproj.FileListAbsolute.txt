@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\bin\Debug\net5.0\ToUpper.exe
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\bin\Debug\net5.0\ToUpper.deps.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\bin\Debug\net5.0\ToUpper.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\bin\Debug\net5.0\ToUpper.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\bin\Debug\net5.0\ToUpper.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\bin\Debug\net5.0\ref\ToUpper.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\bin\Debug\net5.0\ToUpper.pdb
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\obj\Debug\net5.0\ToUpper.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\obj\Debug\net5.0\ToUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\obj\Debug\net5.0\ToUpper.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\obj\Debug\net5.0\ToUpper.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\obj\Debug\net5.0\ToUpper.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\obj\Debug\net5.0\ToUpper.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\obj\Debug\net5.0\ref\ToUpper.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\obj\Debug\net5.0\ToUpper.pdb
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\ToUpper\obj\Debug\net5.0\ToUpper.genruntimeconfig.cache

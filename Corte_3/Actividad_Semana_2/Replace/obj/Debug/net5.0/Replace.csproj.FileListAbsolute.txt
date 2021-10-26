@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\bin\Debug\net5.0\Replace.exe
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\bin\Debug\net5.0\Replace.deps.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\bin\Debug\net5.0\Replace.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\bin\Debug\net5.0\Replace.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\bin\Debug\net5.0\Replace.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\bin\Debug\net5.0\ref\Replace.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\bin\Debug\net5.0\Replace.pdb
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\obj\Debug\net5.0\Replace.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\obj\Debug\net5.0\Replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\obj\Debug\net5.0\Replace.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\obj\Debug\net5.0\Replace.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\obj\Debug\net5.0\Replace.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\obj\Debug\net5.0\Replace.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\obj\Debug\net5.0\ref\Replace.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\obj\Debug\net5.0\Replace.pdb
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\Replace\obj\Debug\net5.0\Replace.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\bin\Debug\net5.0\PadLeft.exe
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\bin\Debug\net5.0\PadLeft.deps.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\bin\Debug\net5.0\PadLeft.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\bin\Debug\net5.0\PadLeft.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\bin\Debug\net5.0\PadLeft.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\bin\Debug\net5.0\ref\PadLeft.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\bin\Debug\net5.0\PadLeft.pdb
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\obj\Debug\net5.0\PadLeft.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\obj\Debug\net5.0\PadLeft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\obj\Debug\net5.0\PadLeft.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\obj\Debug\net5.0\PadLeft.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\obj\Debug\net5.0\PadLeft.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\obj\Debug\net5.0\PadLeft.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\obj\Debug\net5.0\ref\PadLeft.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\obj\Debug\net5.0\PadLeft.pdb
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadLeft\obj\Debug\net5.0\PadLeft.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\bin\Debug\net5.0\PadRight.exe
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\bin\Debug\net5.0\PadRight.deps.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\bin\Debug\net5.0\PadRight.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\bin\Debug\net5.0\PadRight.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\bin\Debug\net5.0\PadRight.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\bin\Debug\net5.0\ref\PadRight.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\bin\Debug\net5.0\PadRight.pdb
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\obj\Debug\net5.0\PadRight.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\obj\Debug\net5.0\PadRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\obj\Debug\net5.0\PadRight.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\obj\Debug\net5.0\PadRight.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\obj\Debug\net5.0\PadRight.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\obj\Debug\net5.0\PadRight.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\obj\Debug\net5.0\ref\PadRight.dll
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\obj\Debug\net5.0\PadRight.pdb
+C:\Users\USER\OneDrive\Documentos\B\3_Corte\PadRight\obj\Debug\net5.0\PadRight.genruntimeconfig.cache
