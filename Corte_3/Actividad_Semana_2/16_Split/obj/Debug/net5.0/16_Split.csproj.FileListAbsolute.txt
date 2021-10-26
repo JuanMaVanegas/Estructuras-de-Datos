@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\bin\Debug\net5.0\16_Split.exe
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\bin\Debug\net5.0\16_Split.deps.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\bin\Debug\net5.0\16_Split.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\bin\Debug\net5.0\16_Split.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\bin\Debug\net5.0\16_Split.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\bin\Debug\net5.0\ref\16_Split.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\bin\Debug\net5.0\16_Split.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\obj\Debug\net5.0\16_Split.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\obj\Debug\net5.0\16_Split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\obj\Debug\net5.0\16_Split.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\obj\Debug\net5.0\16_Split.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\obj\Debug\net5.0\16_Split.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\obj\Debug\net5.0\16_Split.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\obj\Debug\net5.0\ref\16_Split.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\obj\Debug\net5.0\16_Split.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\16_Split\obj\Debug\net5.0\16_Split.genruntimeconfig.cache

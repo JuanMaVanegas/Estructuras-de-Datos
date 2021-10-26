@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\bin\Debug\net5.0\19_Trim.exe
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\bin\Debug\net5.0\19_Trim.deps.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\bin\Debug\net5.0\19_Trim.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\bin\Debug\net5.0\19_Trim.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\bin\Debug\net5.0\19_Trim.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\bin\Debug\net5.0\ref\19_Trim.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\bin\Debug\net5.0\19_Trim.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\obj\Debug\net5.0\19_Trim.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\obj\Debug\net5.0\19_Trim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\obj\Debug\net5.0\19_Trim.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\obj\Debug\net5.0\19_Trim.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\obj\Debug\net5.0\19_Trim.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\obj\Debug\net5.0\19_Trim.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\obj\Debug\net5.0\ref\19_Trim.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\obj\Debug\net5.0\19_Trim.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\19_Trim\obj\Debug\net5.0\19_Trim.genruntimeconfig.cache

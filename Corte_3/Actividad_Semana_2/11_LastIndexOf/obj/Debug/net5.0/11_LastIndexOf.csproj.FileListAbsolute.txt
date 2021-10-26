@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\bin\Debug\net5.0\11_LastIndexOf.exe
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\bin\Debug\net5.0\11_LastIndexOf.deps.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\bin\Debug\net5.0\11_LastIndexOf.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\bin\Debug\net5.0\11_LastIndexOf.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\bin\Debug\net5.0\11_LastIndexOf.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\bin\Debug\net5.0\ref\11_LastIndexOf.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\bin\Debug\net5.0\11_LastIndexOf.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\obj\Debug\net5.0\11_LastIndexOf.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\obj\Debug\net5.0\11_LastIndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\obj\Debug\net5.0\11_LastIndexOf.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\obj\Debug\net5.0\11_LastIndexOf.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\obj\Debug\net5.0\11_LastIndexOf.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\obj\Debug\net5.0\11_LastIndexOf.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\obj\Debug\net5.0\ref\11_LastIndexOf.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\obj\Debug\net5.0\11_LastIndexOf.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\11_LastIndexOf\obj\Debug\net5.0\11_LastIndexOf.genruntimeconfig.cache

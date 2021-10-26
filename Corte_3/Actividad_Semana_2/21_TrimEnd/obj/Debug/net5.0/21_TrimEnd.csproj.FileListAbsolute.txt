@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\bin\Debug\net5.0\21_TrimEnd.exe
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\bin\Debug\net5.0\21_TrimEnd.deps.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\bin\Debug\net5.0\21_TrimEnd.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\bin\Debug\net5.0\21_TrimEnd.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\bin\Debug\net5.0\21_TrimEnd.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\bin\Debug\net5.0\ref\21_TrimEnd.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\bin\Debug\net5.0\21_TrimEnd.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\obj\Debug\net5.0\21_TrimEnd.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\obj\Debug\net5.0\21_TrimEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\obj\Debug\net5.0\21_TrimEnd.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\obj\Debug\net5.0\21_TrimEnd.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\obj\Debug\net5.0\21_TrimEnd.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\obj\Debug\net5.0\21_TrimEnd.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\obj\Debug\net5.0\ref\21_TrimEnd.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\obj\Debug\net5.0\21_TrimEnd.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\21_TrimEnd\obj\Debug\net5.0\21_TrimEnd.genruntimeconfig.cache

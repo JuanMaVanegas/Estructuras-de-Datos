@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\bin\Debug\net5.0\20_TrimStart.exe
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\bin\Debug\net5.0\20_TrimStart.deps.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\bin\Debug\net5.0\20_TrimStart.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\bin\Debug\net5.0\20_TrimStart.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\bin\Debug\net5.0\20_TrimStart.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\bin\Debug\net5.0\ref\20_TrimStart.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\bin\Debug\net5.0\20_TrimStart.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\obj\Debug\net5.0\20_TrimStart.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\obj\Debug\net5.0\20_TrimStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\obj\Debug\net5.0\20_TrimStart.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\obj\Debug\net5.0\20_TrimStart.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\obj\Debug\net5.0\20_TrimStart.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\obj\Debug\net5.0\20_TrimStart.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\obj\Debug\net5.0\ref\20_TrimStart.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\obj\Debug\net5.0\20_TrimStart.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\20_TrimStart\obj\Debug\net5.0\20_TrimStart.genruntimeconfig.cache

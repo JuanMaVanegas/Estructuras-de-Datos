@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\bin\Debug\net5.0\2_DateTime.exe
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\bin\Debug\net5.0\2_DateTime.deps.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\bin\Debug\net5.0\2_DateTime.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\bin\Debug\net5.0\2_DateTime.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\bin\Debug\net5.0\2_DateTime.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\bin\Debug\net5.0\ref\2_DateTime.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\bin\Debug\net5.0\2_DateTime.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\obj\Debug\net5.0\2_DateTime.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\obj\Debug\net5.0\2_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\obj\Debug\net5.0\2_DateTime.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\obj\Debug\net5.0\2_DateTime.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\obj\Debug\net5.0\2_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\obj\Debug\net5.0\2_DateTime.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\obj\Debug\net5.0\ref\2_DateTime.dll
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\obj\Debug\net5.0\2_DateTime.pdb
+C:\Users\USER\OneDrive\Documentos\Problemas\Corte_3\Actividad_Semana_2\2_DateTime\obj\Debug\net5.0\2_DateTime.genruntimeconfig.cache
