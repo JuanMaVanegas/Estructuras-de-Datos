@@ -1,0 +1,16 @@
+C:\Users\santy\source\repos\Endswith\Endswith\bin\Debug\net5.0\Endswith.exe
+C:\Users\santy\source\repos\Endswith\Endswith\bin\Debug\net5.0\Endswith.deps.json
+C:\Users\santy\source\repos\Endswith\Endswith\bin\Debug\net5.0\Endswith.runtimeconfig.json
+C:\Users\santy\source\repos\Endswith\Endswith\bin\Debug\net5.0\Endswith.runtimeconfig.dev.json
+C:\Users\santy\source\repos\Endswith\Endswith\bin\Debug\net5.0\Endswith.dll
+C:\Users\santy\source\repos\Endswith\Endswith\bin\Debug\net5.0\ref\Endswith.dll
+C:\Users\santy\source\repos\Endswith\Endswith\bin\Debug\net5.0\Endswith.pdb
+C:\Users\santy\source\repos\Endswith\Endswith\obj\Debug\net5.0\Endswith.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\Endswith\Endswith\obj\Debug\net5.0\Endswith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santy\source\repos\Endswith\Endswith\obj\Debug\net5.0\Endswith.AssemblyInfoInputs.cache
+C:\Users\santy\source\repos\Endswith\Endswith\obj\Debug\net5.0\Endswith.AssemblyInfo.cs
+C:\Users\santy\source\repos\Endswith\Endswith\obj\Debug\net5.0\Endswith.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\Endswith\Endswith\obj\Debug\net5.0\Endswith.dll
+C:\Users\santy\source\repos\Endswith\Endswith\obj\Debug\net5.0\ref\Endswith.dll
+C:\Users\santy\source\repos\Endswith\Endswith\obj\Debug\net5.0\Endswith.pdb
+C:\Users\santy\source\repos\Endswith\Endswith\obj\Debug\net5.0\Endswith.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\santy\source\repos\Concat\Concat\bin\Debug\net5.0\Concat.exe
+C:\Users\santy\source\repos\Concat\Concat\bin\Debug\net5.0\Concat.deps.json
+C:\Users\santy\source\repos\Concat\Concat\bin\Debug\net5.0\Concat.runtimeconfig.json
+C:\Users\santy\source\repos\Concat\Concat\bin\Debug\net5.0\Concat.runtimeconfig.dev.json
+C:\Users\santy\source\repos\Concat\Concat\bin\Debug\net5.0\Concat.dll
+C:\Users\santy\source\repos\Concat\Concat\bin\Debug\net5.0\ref\Concat.dll
+C:\Users\santy\source\repos\Concat\Concat\bin\Debug\net5.0\Concat.pdb
+C:\Users\santy\source\repos\Concat\Concat\obj\Debug\net5.0\Concat.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\Concat\Concat\obj\Debug\net5.0\Concat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santy\source\repos\Concat\Concat\obj\Debug\net5.0\Concat.AssemblyInfoInputs.cache
+C:\Users\santy\source\repos\Concat\Concat\obj\Debug\net5.0\Concat.AssemblyInfo.cs
+C:\Users\santy\source\repos\Concat\Concat\obj\Debug\net5.0\Concat.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\Concat\Concat\obj\Debug\net5.0\Concat.dll
+C:\Users\santy\source\repos\Concat\Concat\obj\Debug\net5.0\ref\Concat.dll
+C:\Users\santy\source\repos\Concat\Concat\obj\Debug\net5.0\Concat.pdb
+C:\Users\santy\source\repos\Concat\Concat\obj\Debug\net5.0\Concat.genruntimeconfig.cache

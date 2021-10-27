@@ -1,0 +1,15 @@
+C:\Users\santy\source\repos\Compare\Compare\bin\Debug\net5.0\Compare.exe
+C:\Users\santy\source\repos\Compare\Compare\bin\Debug\net5.0\Compare.deps.json
+C:\Users\santy\source\repos\Compare\Compare\bin\Debug\net5.0\Compare.runtimeconfig.json
+C:\Users\santy\source\repos\Compare\Compare\bin\Debug\net5.0\Compare.runtimeconfig.dev.json
+C:\Users\santy\source\repos\Compare\Compare\bin\Debug\net5.0\Compare.dll
+C:\Users\santy\source\repos\Compare\Compare\bin\Debug\net5.0\ref\Compare.dll
+C:\Users\santy\source\repos\Compare\Compare\bin\Debug\net5.0\Compare.pdb
+C:\Users\santy\source\repos\Compare\Compare\obj\Debug\net5.0\Compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santy\source\repos\Compare\Compare\obj\Debug\net5.0\Compare.AssemblyInfoInputs.cache
+C:\Users\santy\source\repos\Compare\Compare\obj\Debug\net5.0\Compare.AssemblyInfo.cs
+C:\Users\santy\source\repos\Compare\Compare\obj\Debug\net5.0\Compare.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\Compare\Compare\obj\Debug\net5.0\Compare.dll
+C:\Users\santy\source\repos\Compare\Compare\obj\Debug\net5.0\ref\Compare.dll
+C:\Users\santy\source\repos\Compare\Compare\obj\Debug\net5.0\Compare.pdb
+C:\Users\santy\source\repos\Compare\Compare\obj\Debug\net5.0\Compare.genruntimeconfig.cache
